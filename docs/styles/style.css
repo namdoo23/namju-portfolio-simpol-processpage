@@ -220,6 +220,11 @@ section .container {
   width: 876px;
   height: 721px;
 }
+.content-2 .original-image h3 {
+  top: -40px;
+  bottom: 0;
+  position: absolute;
+}
 .content-3 .tone-and-manner-explanation {
   padding: 0 30px;
   border-left: 1px solid #cecece;
