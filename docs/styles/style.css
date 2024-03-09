@@ -343,8 +343,11 @@ section .container {
 	height: 4121px;
 	box-shadow: 4px 4px 12px 0 rgba(0, 0, 0, 0.25);
 }
+.content-5 {
+	position: relative;
+}
 .content-5 .container {
-	height: 2500px;
+	height: 2800px;
 }
 .content-5 .responsive-images {
 	position: absolute;
@@ -380,6 +383,11 @@ section .container {
 	width: 128px;
 	height: 2221px;
 	box-shadow: 4px 4px 12px 0 rgba(0, 0, 0, 0.25);
+}
+.content-5 .greetings {
+	position: absolute;
+	left: 45%;
+	bottom: 150px;
 }
 #footer {
 	display: flex;
