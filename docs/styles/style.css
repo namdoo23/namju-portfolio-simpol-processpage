@@ -335,13 +335,13 @@ section .container {
 }
 .content-4 .site-image {
 	position: absolute;
-	top: 100px;
-	background-image: url("https://ifh.cc/g/GvRgfz.jpg");
-	background-repeat: no-repeat;
-	background-size: contain;
-	width: 861px;
-	height: 4096px;
-	box-shadow: 4px 4px 12px 0 rgba(0, 0, 0, 0.25);
+  	top: 100px;
+  	background-image: url("../images/namju-shop.png");
+  	background-repeat: no-repeat;
+  	background-size: contain;
+ 	 width: 861px;
+ 	 height: 3527px;
+ 	 box-shadow: 4px 4px 12px 0 rgba(0, 0, 0, 0.25);
 }
 .content-5 {
 	position: relative;
